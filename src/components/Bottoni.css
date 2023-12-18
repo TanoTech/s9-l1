@@ -1,0 +1,11 @@
+button {
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 16px;
+    background-color: beige;
+    box-shadow: 4px 4px 4px 4px;
+    &:hover{
+        transform: scale(1.2);
+        background-color: brown
+    }
+}                       
